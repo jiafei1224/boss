@@ -1,4 +1,3 @@
-from tkinter import E
 from torch.utils.data import Dataset
 import os
 from skimage import io
